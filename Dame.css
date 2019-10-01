@@ -3,12 +3,19 @@ div {
     width: 9%;
     display: inline-block;
     height: 60px;
+    /* text-align: center; */
+    /* margin: auto; */
+    margin-bottom: -5px;
 }
 
 section {
     width: 1200px;
 }
 
-/* div:nth-child(2n) {
-    background-color: brown;
-} */
+button {
+    margin-left: 30px;
+    /* text-align: center; */
+    margin-top: 5px;
+    border: none;
+}
+
