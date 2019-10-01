@@ -1,0 +1,14 @@
+div {
+    border: solid 1px black;
+    width: 9%;
+    display: inline-block;
+    height: 60px;
+}
+
+section {
+    width: 1200px;
+}
+
+/* div:nth-child(2n) {
+    background-color: brown;
+} */
